@@ -158,7 +158,8 @@ header .menu{
 }
 
 #quem-somos img{
-    min-width: 420px;
+    
+    width: 25vw;
 }
 
 .container-externo{
@@ -349,15 +350,27 @@ footer .footer{
         flex-direction: column-reverse;
     }
 
+    .img-centro{
+
+        width: 250px;
+
+}
+
     .apresentacao .texto-apresentacao{
         width: 50%;
         padding-top: 20px;
     }
 
     #quem-somos{
+
         flex-direction: column-reverse;
         
         
+    }
+
+    #balcao{
+        min-width: 400px;
+        min-height: 200px;
     }
 
     #quem-somos h2{
