@@ -211,10 +211,12 @@ header .menu{
 }
 
 .item-servico p{
+
     font-weight: 700;
     font-size: 18px;
     color: #fff;
     margin-top: 20px;
+    
 }
 
 .item-servico img{
@@ -341,7 +343,7 @@ footer .footer{
 
     .container-externo{
 
-        max-width: 90%;
+        max-width: 87%;
     }
 
     .texto-menu{
